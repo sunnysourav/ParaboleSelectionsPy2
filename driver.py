@@ -13,13 +13,14 @@ def read_directory(mypath):
 
 # Function you will be working with
 def create_knowledge_graph(contents_of_input_file, name_of_input_file):
-    # Through this function you have to use the contents of each file to create a knowledge graph
-    # The output has to be saved in the data/output folder with the same name as data/input file
-    # Note the writing to file has to be handled by you.
+     to use the contents of each file to create a knowledge gr
     pass
 
 #Main function
 if __name__ == '__main__':
+    
+    
+
     logging.basicConfig(level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
     #Folder where the input files are present
